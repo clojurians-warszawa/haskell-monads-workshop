@@ -2,7 +2,9 @@ module Intro where
 
 {-
 Zapewne niektórzy z Was będą chcieli odświeżyć sobie Haskella. Jeśli nic nie pamiętacie,
-zajrzyjcie tutaj: https://github.com/clojurians-warszawa/haskell-workshop/blob/master/HaskellTest/src/Module1.hs
+zajrzyjcie tutaj: 
+* https://github.com/clojurians-warszawa/haskell-workshop/blob/master/HaskellTest/src/Module1.hs (proste przykłady)
+* https://github.com/betenkowski/haskell-20140813/blob/master/prezentacja.odp (m. in. opis REPLa)
 -}
 
 -- Zadanie 1:

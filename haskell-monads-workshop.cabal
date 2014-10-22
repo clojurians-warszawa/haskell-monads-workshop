@@ -8,5 +8,9 @@ library
   hs-source-dirs:  src
   build-depends:   base >= 4
   ghc-options:     -Wall
-  other-modules:   Intro
+  other-modules:   
+                   Intro,
+                   Monads1,
+                   Monads2,
+                   Monads3
 
